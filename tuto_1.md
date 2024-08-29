@@ -6,7 +6,7 @@
 
 ## Étape 1
 
-Ajoute le bloc ``||scene:définir courleur d'arrière-plan à ||`` dans le bloc ``||loops:au démarrage ||``.
+Ajoute le bloc ``||scene:définir couleur d'arrière-plan à ||`` dans le bloc ``||loops:au démarrage ||``.
 
 ```blocks
 
